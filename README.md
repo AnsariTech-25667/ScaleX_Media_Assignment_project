@@ -31,5 +31,5 @@ This project showcases my proficiency in React Native, API integration, and UI/U
 I look forward to discussing the project in detail during our interview. Thank you for considering my application.
 
 Best Regards,
-[Your Full Name]
-[Your Contact Information]
+[Ansari Maaz]
+[9511670380]
